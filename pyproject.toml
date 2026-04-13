@@ -1,3 +1,13 @@
 [project]
 name = "clip-latent-reading"
 version = "1.0.0"
+dependencies = [
+    "ipykernel>=7.2.0",
+    "matplotlib>=3.10.8",
+    "pandas>=3.0.2",
+    "pillow>=12.2.0",
+    "scikit-learn>=1.8.0",
+    "torch>=2.11.0",
+    "transformers>=5.5.3",
+    "umap-learn>=0.5.12",
+]

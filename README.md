@@ -16,3 +16,11 @@ How do multimodal AI models handle such conceptual complexity?
 Using CLIP (Contrastive Language–Image Pretraining), this project investigates how images and textual descriptions related to light are organized in a shared embedding space. It compares different discursive registers—art-historical, technical, and poetic—to examine how the model aligns visual and linguistic representations.
 
 Rather than treating the model as a neutral retrieval tool, this repository approaches CLIP as a cultural structure, whose latent space can be read and interpreted. The project therefore proposes a small-scale experiment in “latent reading”, asking how disciplinary distinctions are preserved, transformed, or flattened within a multimodal AI system.
+
+Packages  : 
+torch → runs the model
+transformers → loads CLIP
+pillow → loads images
+pandas → handles prompts.csv
+scikit-learn → PCA + cosine similarity
+matplotlib → plots
