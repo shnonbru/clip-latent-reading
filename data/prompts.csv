@@ -1,0 +1,13 @@
+id,text,category,subcategory
+t01,"A young woman holds a lamp, her face illuminated by warm artificial light in a darkened domestic interior, the light structuring the composition and enhancing her figure",art_historical,candlelit_scene
+t02,"An elderly figure examines an object by lantern light, the chiaroscuro contrast characteristic of Caravaggesque northern painting, darkness enveloping the periphery",art_historical,chiaroscuro
+t03,"A solitary reader bent over a book in an interior, the illuminated page and concentrated face contrasting with surrounding shadow, artificial light as epistemic device",art_historical,reading_scene
+t04,"A seated figure reads by the precise glow of an Argand lamp, the rational clarity of the light reflecting Enlightenment ideals of attention and self-improvement",art_historical,enlightenment_interior
+t05,"An Argand lamp with a hollow circular wick and glass chimney, designed to improve combustion efficiency and increase luminous output compared to earlier oil lamps",technical,lamp_description
+t06,"A tin oil lantern with punched ventilation holes and a wire handle, the interior candle protected from wind, portable artificial light source for domestic and outdoor use",technical,lamp_description
+t07,"A cross-section diagram of a lamp mechanism showing the fuel reservoir, wick, combustion chamber, and the physics of convective airflow that sustains a steady flame",technical,mechanism
+t08,"Measurement of luminous intensity in candlepower: the photometric comparison of an oil lamp flame against a standard candle as reference unit of light output",technical,photometry
+t09,"Warm amber light diffusing through a dim room at dusk, the quality of artificial illumination that softens edges and transforms ordinary domestic space into atmosphere",poetic,atmosphere
+t10,"The intimate zone of visibility created by a single flame, the circle of light in darkness where human activity concentrates and the surrounding world dissolves",poetic,phenomenological
+t11,"Light as a threshold between knowledge and obscurity, the lamp as a figure for understanding, the act of reading by artificial light as a form of nocturnal vigilance",poetic,metaphorical
+t12,"The texture of candlelight on skin and fabric, its warmth and flicker inseparable from the bodily presence of those who inhabit its small, precarious radius",poetic,sensory

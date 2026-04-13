@@ -11,3 +11,10 @@ dependencies = [
     "transformers>=5.5.3",
     "umap-learn>=0.5.12",
 ]
+
+[tool.setuptools]
+package-dir = {"" = "src"}
+
+[tool.setuptools.packages.find]
+where = ["src"]
+include = ["multimodal_interpretability_pilot"]
